@@ -24,7 +24,7 @@
 **Documents (in progress)**:
 
 - [**Main project document**](https://docs.google.com/document/d/112IFjrraeM0-MkxICwxx7fViW4EZK__x5SxsFvPltHg/edit?skip_itp2_check=true)
-- **Informed consent**: No file.
+- **Informed consent**: (https://docs.google.com/document/d/16VJqHppLtM5M-DEF6bPYtS4pzrL46jOtgIJNCLUSQ2Q/edit?usp=sharing)
 - **Experiment ad**: No file.
 - **Other material**: None yet.
 
